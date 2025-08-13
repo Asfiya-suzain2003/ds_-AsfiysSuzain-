@@ -1,0 +1,4 @@
+Sentiment,Average_PnL,Total_Volume_USD,Buy_Count,Sell_Count
+Fear,-5000,1000000,450,550
+Neutral,2000,1500000,600,600
+Greed,7000,2000000,750,450
